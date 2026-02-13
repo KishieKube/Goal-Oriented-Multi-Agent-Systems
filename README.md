@@ -1,5 +1,5 @@
 
-# 🚀 Week 12 – Goal-Oriented Multi-Agent Systems (CrewAI)
+# 🚀 Goal-Oriented Multi-Agent Systems (CrewAI)
 
 ## 📌 Overview
 
