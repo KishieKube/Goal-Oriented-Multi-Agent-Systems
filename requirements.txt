@@ -1,0 +1,16 @@
+# Core multi-agent framework
+crewai>=0.28.0
+
+# LLM integration (OpenAI-compatible)
+langchain-openai>=0.1.7
+langchain>=0.1.16
+
+# Data validation / schemas
+pydantic>=2.5.0
+
+# Environment variable support
+python-dotenv>=1.0.1
+
+# Jupyter support (for VS Code & local runs)
+jupyter>=1.0.0
+ipykernel>=6.29.0
